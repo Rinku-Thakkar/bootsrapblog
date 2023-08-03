@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: aut0;
+}
+
+.btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn a:hover {
+    color: blue;
+}
+
+.btn {
+    display: inline;
+}
+
+.card {
+    margin: 50px;
+}
